@@ -15,3 +15,5 @@ if input_text:
     # Tampilkan hasil
     st.write("Sentiment:")
     st.write(prediction)
+
+    ###test evan
